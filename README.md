@@ -1,0 +1,1 @@
+Instructions to run the program, first we need to install all the dependencies, with npm i on the back as well as in the front folder with "npm i", secondly we need to run backend and frontend with "npm run dev", congratulations you are running the program
